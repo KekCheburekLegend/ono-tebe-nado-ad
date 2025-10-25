@@ -4,6 +4,7 @@
 2. Написан CSS file
 3. Сравнил результат с шаблоном
 
+## Результат
 ![alt text](image.png)
 
 https://github.com/KekCheburekLegend/ono-tebe-nado-ad
